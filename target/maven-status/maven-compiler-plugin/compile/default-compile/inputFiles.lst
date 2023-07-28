@@ -1,0 +1,7 @@
+/home/robinson/Desktop/project/java/blog-java/src/main/java/com/example/blogapi/Entities/Tasks.java
+/home/robinson/Desktop/project/java/blog-java/src/main/java/com/example/blogapi/Records/CreateTaskInput.java
+/home/robinson/Desktop/project/java/blog-java/src/main/java/com/example/blogapi/Entities/TaskStatusEnum.java
+/home/robinson/Desktop/project/java/blog-java/src/main/java/com/example/blogapi/services/TaskService.java
+/home/robinson/Desktop/project/java/blog-java/src/main/java/com/example/blogapi/controller/TasksController.java
+/home/robinson/Desktop/project/java/blog-java/src/main/java/com/example/blogapi/repository/TaskRepository.java
+/home/robinson/Desktop/project/java/blog-java/src/main/java/com/example/blogapi/BlogApiApplication.java
